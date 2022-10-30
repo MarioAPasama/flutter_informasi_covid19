@@ -1,0 +1,22 @@
+import 'package:bottom_navy_bar/bottom_navy_bar.dart';
+import 'package:carousel_slider/carousel_slider.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter/gestures.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import 'package:informasi_covid19/data/data.dart';
+import 'package:informasi_covid19/material/material.dart';
+import 'dart:ui';
+import 'package:flutter/rendering.dart';
+import 'package:intl/intl.dart';
+import 'package:fl_chart/fl_chart.dart';
+import 'package:webview_flutter/webview_flutter.dart';
+import 'package:url_launcher/url_launcher.dart';
+import 'package:webfeed/webfeed.dart';
+import 'package:http/http.dart' as http;
+
+part 'main_page.dart';
+part 'home.dart';
+part 'detail.dart';
+part 'info.dart';

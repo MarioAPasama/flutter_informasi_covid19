@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673361147923",
+    "project_id": "infromasi-covid",
+    "storage_bucket": "infromasi-covid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673361147923:android:93e1254968923696c027e6",
+        "android_client_info": {
+          "package_name": "com.example.informasi_covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673361147923-0p82ppmcniac6leg0ebfbqc7h8v75iuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1s0VHozQ8kGnR2lL9W-OOILiuz6gZ3-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673361147923-0p82ppmcniac6leg0ebfbqc7h8v75iuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
